@@ -1,3 +1,9 @@
+<!--
+you're reading the source of a readme. respectable.
+the banner above is a hand-written svg, not a generator output.
+nothing else to see here. unless you check the bottom of the page.
+-->
+
 <div align="center">
 
 <img src="banner.svg" width="100%" alt="Banner"/>
@@ -55,3 +61,25 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <img src="https://komarev.com/ghpvc/?username=LegacyHeaven&color=cf59e6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary>[ sudo cat secrets.txt ]</summary>
+<br/>
+
+```
+$ whoami
+not root, but close enough
+
+$ cat todo.txt
+- fix the bug
+- bug count: 47 and rising
+
+$ systemctl status minecraft-server
+● minecraft-server.service - active (running)
+  players online: 3
+  players who are actually me testing: 2
+```
+
+</details>
