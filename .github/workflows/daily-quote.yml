@@ -1,0 +1,56 @@
+name: Daily Quote
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick a random quote and update README
+        run: |
+          quotes=(
+            "Talk is cheap. Show me the code. — Linus Torvalds"
+            "Premature optimization is the root of all evil. — Donald Knuth"
+            "It's not a bug, it's an undocumented feature."
+            "Code never lies, comments sometimes do. — Ron Jeffries"
+            "First, solve the problem. Then, write the code. — John Johnson"
+            "Simplicity is the soul of efficiency. — Austin Freeman"
+            "Deleted code is debugged code. — Jeff Sickel"
+            "The best error message is the one that never shows up. — Thomas Fuchs"
+            "Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson"
+            "Good programmers write code that humans can understand. — Martin Fowler"
+            "Ship it, then fix it."
+            "There are only two hard things in Computer Science: cache invalidation and naming things. — Phil Karlton"
+            "Real programmers count from 0."
+            "A user interface is like a joke. If you have to explain it, it's not that good."
+            "Works on my machine."
+          )
+          index=$((RANDOM % ${#quotes[@]}))
+          quote="${quotes[$index]}"
+          echo "Selected: $quote"
+          python3 - "$quote" <<'EOF'
+          import re, sys
+          quote = sys.argv[1]
+          with open("README.md") as f:
+              content = f.read()
+          new_block = f'<!-- QUOTE:START -->\n> *"{quote}"*\n<!-- QUOTE:END -->'
+          content = re.sub(r"<!-- QUOTE:START -->.*?<!-- QUOTE:END -->", new_block, content, flags=re.S)
+          with open("README.md", "w") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update daily quote"
+          git push
