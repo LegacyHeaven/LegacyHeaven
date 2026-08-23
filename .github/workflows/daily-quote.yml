@@ -10,13 +10,15 @@ permissions:
 
 concurrency:
   group: daily-quote
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pick a random quote and update README
         run: |
@@ -58,7 +60,20 @@ jobs:
           git add README.md
           if ! git diff --staged --quiet; then
             git commit -m "chore: update daily quote"
-            git push
+            
+            # Retry logic for push
+            for i in {1..5}; do
+              if git push; then
+                echo "Push succeeded"
+                exit 0
+              else
+                echo "Push attempt $i failed, retrying after fetch..."
+                git fetch origin main
+                git rebase origin/main
+              fi
+            done
+            echo "Push failed after 5 attempts"
+            exit 1
           else
             echo "No changes to commit"
           fi
