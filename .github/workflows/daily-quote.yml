@@ -8,13 +8,15 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-quote
+  cancel-in-progress: false
+
 jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Pick a random quote and update README
         run: |
@@ -56,7 +58,7 @@ jobs:
           git add README.md
           if ! git diff --staged --quiet; then
             git commit -m "chore: update daily quote"
-            git fetch origin main
-            git rebase origin/main
-            git push origin main
+            git push
+          else
+            echo "No changes to commit"
           fi
