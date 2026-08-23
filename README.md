@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"A user interface is like a joke. If you have to explain it, it's not that good."*
+> *"First, solve the problem. Then, write the code. — John Johnson"*
 <!-- QUOTE:END -->
 
 </div>
