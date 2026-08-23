@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+> *"A user interface is like a joke. If you have to explain it, it's not that good."*
 <!-- QUOTE:END -->
 
 </div>
