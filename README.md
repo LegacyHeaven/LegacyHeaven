@@ -18,6 +18,16 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 
 <br/>
 
+<div align="center">
+
+<!-- QUOTE:START -->
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+<!-- QUOTE:END -->
+
+</div>
+
+<br/>
+
 ### Tech Stack
 
 <div align="center">
@@ -83,3 +93,5 @@ $ systemctl status minecraft-server
 ```
 
 </details>
+
+---
