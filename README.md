@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Real programmers count from 0."*
+> *"Works on my machine."*
 <!-- QUOTE:END -->
 
 </div>
