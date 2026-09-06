@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"There are only two hard things in Computer Science: cache invalidation and naming things. — Phil Karlton"*
+> *"Works on my machine."*
 <!-- QUOTE:END -->
 
 </div>
