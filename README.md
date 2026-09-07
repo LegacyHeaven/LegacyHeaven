@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Works on my machine."*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- QUOTE:END -->
 
 </div>
