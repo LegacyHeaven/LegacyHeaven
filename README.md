@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Works on my machine."*
+> *"Simplicity is the soul of efficiency. — Austin Freeman"*
 <!-- QUOTE:END -->
 
 </div>
