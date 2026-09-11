@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Simplicity is the soul of efficiency. — Austin Freeman"*
+> *"Ship it, then fix it."*
 <!-- QUOTE:END -->
 
 </div>
