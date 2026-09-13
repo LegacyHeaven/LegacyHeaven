@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Ship it, then fix it."*
+> *"Code never lies, comments sometimes do. — Ron Jeffries"*
 <!-- QUOTE:END -->
 
 </div>
