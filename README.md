@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Good programmers write code that humans can understand. — Martin Fowler"*
+> *"There are only two hard things in Computer Science: cache invalidation and naming things. — Phil Karlton"*
 <!-- QUOTE:END -->
 
 </div>
