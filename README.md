@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Good programmers write code that humans can understand. — Martin Fowler"*
+> *"First, solve the problem. Then, write the code. — John Johnson"*
 <!-- QUOTE:END -->
 
 </div>
