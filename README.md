@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"There are only two hard things in Computer Science: cache invalidation and naming things. — Phil Karlton"*
+> *"Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson"*
 <!-- QUOTE:END -->
 
 </div>
