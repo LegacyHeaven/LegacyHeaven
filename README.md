@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"A user interface is like a joke. If you have to explain it, it's not that good."*
 <!-- QUOTE:END -->
 
 </div>
