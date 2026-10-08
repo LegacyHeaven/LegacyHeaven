@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Simplicity is the soul of efficiency. — Austin Freeman"*
+> *"It's not a bug, it's an undocumented feature."*
 <!-- QUOTE:END -->
 
 </div>
