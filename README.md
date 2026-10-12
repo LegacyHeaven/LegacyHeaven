@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Code never lies, comments sometimes do. — Ron Jeffries"*
+> *"The best error message is the one that never shows up. — Thomas Fuchs"*
 <!-- QUOTE:END -->
 
 </div>
