@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"Real programmers count from 0."*
 <!-- QUOTE:END -->
 
 </div>
