@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Premature optimization is the root of all evil. — Donald Knuth"*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- QUOTE:END -->
 
 </div>
