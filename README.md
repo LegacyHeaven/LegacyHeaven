@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Talk is cheap. Show me the code. — Linus Torvalds"*
+> *"Real programmers count from 0."*
 <!-- QUOTE:END -->
 
 </div>
