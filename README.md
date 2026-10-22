@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Deleted code is debugged code. — Jeff Sickel"*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- QUOTE:END -->
 
 </div>
