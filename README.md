@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"Works on my machine."*
 <!-- QUOTE:END -->
 
 </div>
