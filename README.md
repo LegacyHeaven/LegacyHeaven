@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson"*
 <!-- QUOTE:END -->
 
 </div>
