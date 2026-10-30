@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Simplicity is the soul of efficiency. — Austin Freeman"*
+> *"Good programmers write code that humans can understand. — Martin Fowler"*
 <!-- QUOTE:END -->
 
 </div>
