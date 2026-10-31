@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Good programmers write code that humans can understand. — Martin Fowler"*
+> *"It's not a bug, it's an undocumented feature."*
 <!-- QUOTE:END -->
 
 </div>
