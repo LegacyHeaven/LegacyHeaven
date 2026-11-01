@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"It's not a bug, it's an undocumented feature."*
+> *"Ship it, then fix it."*
 <!-- QUOTE:END -->
 
 </div>
