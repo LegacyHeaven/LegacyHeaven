@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Ship it, then fix it."*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- QUOTE:END -->
 
 </div>
