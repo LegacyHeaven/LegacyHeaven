@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Simplicity is the soul of efficiency. — Austin Freeman"*
+> *"Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson"*
 <!-- QUOTE:END -->
 
 </div>
