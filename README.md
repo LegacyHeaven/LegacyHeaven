@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Simplicity is the soul of efficiency. — Austin Freeman"*
+> *"Premature optimization is the root of all evil. — Donald Knuth"*
 <!-- QUOTE:END -->
 
 </div>
