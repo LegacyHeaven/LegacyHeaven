@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"Simplicity is the soul of efficiency. — Austin Freeman"*
 <!-- QUOTE:END -->
 
 </div>
