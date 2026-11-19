@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Good programmers write code that humans can understand. — Martin Fowler"*
+> *"Code never lies, comments sometimes do. — Ron Jeffries"*
 <!-- QUOTE:END -->
 
 </div>
