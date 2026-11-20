@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Code never lies, comments sometimes do. — Ron Jeffries"*
+> *"It's not a bug, it's an undocumented feature."*
 <!-- QUOTE:END -->
 
 </div>
