@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Talk is cheap. Show me the code. — Linus Torvalds"*
+> *"Good programmers write code that humans can understand. — Martin Fowler"*
 <!-- QUOTE:END -->
 
 </div>
