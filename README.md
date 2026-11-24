@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Premature optimization is the root of all evil. — Donald Knuth"*
+> *"First, solve the problem. Then, write the code. — John Johnson"*
 <!-- QUOTE:END -->
 
 </div>
