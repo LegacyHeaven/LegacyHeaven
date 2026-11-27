@@ -21,7 +21,7 @@ More about me: [legacyheaven.dev](https://legacyheaven.dev)
 <div align="center">
 
 <!-- QUOTE:START -->
-> *"Deleted code is debugged code. — Jeff Sickel"*
+> *"Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson"*
 <!-- QUOTE:END -->
 
 </div>
